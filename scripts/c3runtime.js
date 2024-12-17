@@ -1388,7 +1388,8 @@ self.C3_ExpressionFuncs = [
 			return () => v0.GetValue();
 		},
 		() => 2,
-		() => 0.23
+		() => 0.23,
+		() => 10
 ];
 
 
